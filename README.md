@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolaDare
 - 👀 I’m interested in Web programming
-- 🌱 I’m currently learning Python dash
+- 🌱 I’m currently learning React js
 - 📫 How to reach me nikoladarinkovic@gmail.com
 
 <!---
